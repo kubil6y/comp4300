@@ -67,10 +67,10 @@ GameEngine
 
 ## What is an Entity?
 
--   Entity = any `object` in the game
+-   Entity is any `object` in the game
     -   Usually, any object with a position
 -   No unique `functionality`, typically just `stores` a number of Components
--   Stores `at most 1` of each component type
+-   Stores `at most one` of each component type
 -   How Components are stored and used within an Entity can be a complex topic
 
 ## Component Storage Options

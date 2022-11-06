@@ -26,7 +26,7 @@ public:
         shape->setFillColor(color);
     }
 
-    std::shared_ptr<sf::Shape> getShape()
+    std::shared_ptr<sf::Shape> getShape() const
     {
         return shape;
     }

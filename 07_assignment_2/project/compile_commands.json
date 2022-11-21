@@ -1,0 +1,104 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O3",
+            "-Iinclude",
+            "-o",
+            "src/main.o",
+            "src/main.cpp"
+        ],
+        "directory": "/home/kubilay/cpp/comp4300/07_assignment_2/assignment",
+        "file": "src/main.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O3",
+            "-Iinclude",
+            "-o",
+            "src/vec2.o",
+            "src/vec2.cpp"
+        ],
+        "directory": "/home/kubilay/cpp/comp4300/07_assignment_2/assignment",
+        "file": "src/vec2.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O3",
+            "-Iinclude",
+            "-o",
+            "src/Entity.o",
+            "src/Entity.cpp"
+        ],
+        "directory": "/home/kubilay/cpp/comp4300/07_assignment_2/assignment",
+        "file": "src/Entity.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O3",
+            "-Iinclude",
+            "-o",
+            "src/Game.o",
+            "src/Game.cpp"
+        ],
+        "directory": "/home/kubilay/cpp/comp4300/07_assignment_2/assignment",
+        "file": "src/Game.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O3",
+            "-Iinclude",
+            "-o",
+            "src/EntityManager.o",
+            "src/EntityManager.cpp"
+        ],
+        "directory": "/home/kubilay/cpp/comp4300/07_assignment_2/assignment",
+        "file": "src/EntityManager.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O3",
+            "-Iinclude",
+            "-o",
+            "src/vec2_test.o",
+            "src/vec2_test.cpp"
+        ],
+        "directory": "/home/kubilay/cpp/comp4300/07_assignment_2/assignment",
+        "file": "src/vec2_test.cpp"
+    }
+]
